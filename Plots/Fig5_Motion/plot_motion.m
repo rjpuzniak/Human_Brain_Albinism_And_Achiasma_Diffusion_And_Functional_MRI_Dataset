@@ -3,10 +3,10 @@ main_folder='/home/rjp/1_OVGU/3_Data_publication/1_Motion_estimate';
 data_folder='/home/rjp/1_OVGU/3_Data_publication/1_Motion_estimate/Data';
 
 % Define participants and groups they belong to
-albinism={['ce04'];['fe21'];['ib57'];['kw99'];['nh50'];['rx88'];['sj22'];['tq63'];['uh47']};
-controls={['la21'];['lw37'];['nb30'];['ow93'];['uf97'];['xn78'];['xs62'];['ta14']};
-achiasma={['ps94']};
-hypoplasia={['hw91']};
+albinism={['ALB1'];['ALB2'];['ALB3'];['ALB4'];['ALB5'];['ALB6'];['ALB7'];['ALB8'];['ALB9']};
+controls={['CON1'];['CON2'];['CON3'];['CON4'];['CON5'];['CON6'];['CON7'];['CON8']};
+achiasma={['ACH1']};
+hypoplasia={['CHP1']};
 
 albinism = reshape(albinism,[1 9]);
 controls = reshape(controls,[1 8]);
