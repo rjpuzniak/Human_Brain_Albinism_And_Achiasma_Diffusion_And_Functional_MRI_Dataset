@@ -1,0 +1,3 @@
+# Shells: 1600
+# command_history: /home/rjp/Software/MRtrix/mrtrix3/bin/amp2response dwi.mif iter4_SF.mif iter4_first_dir.mif iter4_RF.txt -lmax 6  (version=3.0.2-25-g24b61f68)
+706.95980382459 -355.090818214391 129.217633152954 -29.1559154629827
