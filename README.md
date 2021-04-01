@@ -4,4 +4,4 @@ This repository contains supplementary material for the publication by [Puzniak 
 - offline preprocessing,
 - quality assessment (outputting plots).
 
-The supplementary MATLAB files with detailed information about fMRI acquisition (necessary for analysis of the retinotopic data) are stored in the [OSF repository](https://osf.io/xz29q/) 
+The supplementary MATLAB files with detailed information about fMRI acquisition (necessary for analysis of the retinotopic data) are stored in the [OSF repository](https://osf.io/xz29q/).
