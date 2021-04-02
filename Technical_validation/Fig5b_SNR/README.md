@@ -1,4 +1,4 @@
-![Figure 5. Participants' motion during DW scan.](Fig5a_Motion.jpg)
+![Figure 5. Participants' motion during DW scan.](SNR_in_b0.jpg)
 __Figure 5. SNR in corpus callosum and optic chiasm in b0 images.__ SNR in b0 images for each participant calculated from callosal voxels (selected from raw AP PED DW series, raw PA PED DW series, and corrected DWI) and optic chiasm (only for corrected DWI).
 
 ### Reproducing the results
