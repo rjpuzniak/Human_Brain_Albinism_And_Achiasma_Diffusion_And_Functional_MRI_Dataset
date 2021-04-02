@@ -1,0 +1,15 @@
+{
+    "tags": [],
+    "datatype_tags": [
+        "ensemble"
+    ],
+    "meta": {
+        "subject": "CHP1"
+    },
+    "life": {
+        "input_tracks": 1065073,
+        "non0_tracks": 275616,
+        "rmse": 0.04655170071,
+        "density": 275616
+    }
+}

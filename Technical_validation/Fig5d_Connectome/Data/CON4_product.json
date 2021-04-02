@@ -1,0 +1,15 @@
+{
+    "tags": [],
+    "datatype_tags": [
+        "ensemble"
+    ],
+    "meta": {
+        "subject": "CON4"
+    },
+    "life": {
+        "input_tracks": 1065091,
+        "non0_tracks": 296229,
+        "rmse": 0.0452895069,
+        "density": 296229
+    }
+}

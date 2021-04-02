@@ -1,0 +1,15 @@
+{
+    "tags": [],
+    "datatype_tags": [
+        "ensemble"
+    ],
+    "meta": {
+        "subject": "ALB3"
+    },
+    "life": {
+        "input_tracks": 1065061,
+        "non0_tracks": 275903,
+        "rmse": 0.0452786976,
+        "density": 275903
+    }
+}

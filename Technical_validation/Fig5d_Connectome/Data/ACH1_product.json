@@ -1,0 +1,15 @@
+{
+    "tags": [],
+    "datatype_tags": [
+        "ensemble"
+    ],
+    "meta": {
+        "subject": "ACH1"
+    },
+    "life": {
+        "input_tracks": 1065082,
+        "non0_tracks": 275320,
+        "rmse": 0.04749951001,
+        "density": 275320
+    }
+}
