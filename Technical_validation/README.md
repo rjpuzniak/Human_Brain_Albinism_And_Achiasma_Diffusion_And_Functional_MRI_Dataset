@@ -1,6 +1,11 @@
-# Uploading and preprocessing
+## Technical validation
 
-This folder contains files related to offline preprocessing and uploading of the data. 
+This folder contains scripts outputting technical validation plots. Specifically, this includes:
+- `Fig5a_Motion` - plot of participants' motion during acquisition of DW images.
+- `Fig5b_SNR` - plot of SNR of b0 images in the optic chiasm and corpus callosum.
+- `Fig5c_SFR` - plot of parameters of Single Fibre Response function
+- `Fig5d_Connectome` - quantitative evaluation of connectome generated from the DW data.
+- `Supp. Fig 1` - plots of SNR in diffusion-weighted images (along x-, y- and z-axis) and b0 images.
 
-## Contents
+The details are provided within respective folders.
 
