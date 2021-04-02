@@ -1,4 +1,4 @@
-![Figure 7. Spherical Harmonics coefficients of Single Fiber Response function.](Fig7_SH_coefficients_of_SFR.jpg)
+![Figure 7. Spherical Harmonics coefficients of Single Fiber Response function.](Fig5c_SFR.jpg)
 __Figure 7. Spherical Harmonics coefficients of Single Fiber Response function.__ Values of the zero phase spherical harmonics (SH) coefficients of the Single Fiber Response (SFR) function. The y-axis depicts the value of given term, while the x-axis displays the even orders of SH coefficients (odd are equal to 0). SFR was calculated for a L<sub>max</sub>=6 for a single-shell data. The colors of markers and lines correspond to groups: control (yellow), albinism (magenta), achiasma (violet) and chiasma hypoplasia (blue).
 
 ### Reproducing the results
