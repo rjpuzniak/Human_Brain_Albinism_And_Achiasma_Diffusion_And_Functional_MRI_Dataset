@@ -1,4 +1,4 @@
-# CHIASM, The human brain albinism and achiasma MRI dataset
+# CHIASM, the human brain albinism and achiasma MRI dataset
 This repository contains supplementary material for the publication by [Puzniak et al., in preparation](https://doi.org/10.25663/brainlife.pub.9) consisting of scripts for:
 - data uploading, 
 - offline preprocessing,
